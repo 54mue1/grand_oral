@@ -14,23 +14,20 @@ Au cours du processus de modélisation 3D, vous pouvez déterminer la taille, la
 ## A quoi sert la modélisation 3D ? 
 De nombreuses industries utilisent la modélisation 3D pour une gamme de projets ; il y a probablement beaucoup d'éléments modélisés en 3D que nous utilisons sans même nous rendre compte de leur implication. Avec la modélisation 3D, les possibilités sont infinies. C'est un support vraiment polyvalent qui peut être utilisé pour un éventail de domaines différents. Explorons quelques utilisations courantes de la modélisation 3D : 
 
-Développement de jeu
+Développement de jeu :
 L'utilisation la plus connue de la modélisation 3D est peut-être le développement de jeux . Les modèles 3D sont utilisés pour créer des personnages, des décors, des accessoires et des mondes entiers dans les jeux vidéo. La clé de tout bon jeu est l'immersion, et la modélisation 3D est un excellent moyen de créer des expériences immersives.
-
 La modélisation 3D est particulièrement importante dans le monde du jeu en réalité virtuelle, qui est un secteur extrêmement passionnant. Les jeux de réalité virtuelle vous plongent complètement dans l'expérience de jeu, créant des mondes entiers en trois dimensions dans lesquels plonger.
 
-Il est logique que l'impression 3D ne soit pas possible sans la modélisation 3D. L'impression 3D permet aux modèles 3D de devenir des objets physiques qui peuvent être utilisés pour tout ce que vous voulez. C'est bien plus que des figurines miniatures et des jouets d'imprimantes à domicile ; il existe une infinité de façons utiles d'utiliser l'impression 3D.
+l'impression 3D : L'impression 3D permet aux modèles 3D de devenir des objets physiques qui peuvent être utilisés pour tout ce que vous voulez. C'est bien plus que des figurines miniatures et des jouets d'imprimantes à domicile ; il existe une infinité de façons utiles d'utiliser l'impression 3D.
 
-Comme nous l'avons découvert dans notre étape ouverte sur l'impression 3D dans le secteur de la santé , l'impression 3D est fréquemment utilisée dans le secteur de la santé, ce qui a des effets qui changent la vie. Il a été utilisé pour fabriquer des prothèses et des implants sur mesure et pour créer des modèles anatomiquement corrects pour la planification chirurgicale. 
+Santé : l'impression 3D est fréquemment utilisée dans le secteur de la santé, ce qui a des effets qui changent la vie. Il a été utilisé pour fabriquer des prothèses et des implants sur mesure et pour créer des modèles anatomiquement corrects pour la planification chirurgicale. 
 
-Architecture 
+Architecture :
 Une autre utilisation courante de la modélisation 3D est l'architecture. La modélisation 3D permet aux architectes de planifier au-delà de la méthode traditionnelle des plans de construction dessinés à la main. Au fur et à mesure que la technologie a évolué, nous sommes désormais en mesure de créer un visuel tridimensionnel d'un bâtiment avant qu'il ne soit entièrement construit.
-
 Ceci est extrêmement utile pour imaginer le produit final lors de présentations ou à d'autres parties prenantes. La modélisation 3D peut révéler des problèmes potentiels avec les structures de construction que les plans 2D ne pourraient pas montrer et est essentielle à la conception de bâtiments modernes . 
 
-Animation 
+Animation :
 Une fois que vous avez un modèle 3D, il peut être entièrement truqué et animé, ce qui est très pratique pour l'animation . Les animateurs utilisent des modèles 3D pour un effet net et homogène lors de la création de films et d'émissions de télévision. Tout au long du processus, la modélisation 3D est utilisée pour créer des décors, des personnages, des accessoires et bien plus encore.
-
 La plupart des films d'animation utilisent une sorte de logiciel de programmation 3D. Cependant, être capable d'animer n'est pas exclusif à l'animation. Il est également utile pour les effets spéciaux dans les films, entre autres. 
 
 La conception des produits
