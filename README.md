@@ -11,11 +11,6 @@ Commençons par une définition de modélisation 3D. La modélisation 3D est le 
 
 Au cours du processus de modélisation 3D, vous pouvez déterminer la taille, la forme et la texture d'un objet. Le processus fonctionne avec des points, des lignes et des polygones pour créer les formes 3D dans le logiciel. 
 
-## Comment fonctionne la modélisation 3D ? 
-Un modèle 3D est essentiellement composé de sommets, qui se rejoignent pour former un maillage et agissent comme le cœur du modèle 3D. Chaque point du modèle peut être manipulé pour modifier la forme. En utilisant des données de coordonnées, le logiciel identifie l'emplacement de chaque point vertical et horizontal, le tout par rapport à un point de référence. 
-
-La façon la plus courante de commencer à créer un modèle 3D est de commencer par une forme de base - un cube, une boîte, une sphère ou tout ce que vous pensez être le mieux adapté. À partir de votre forme de départ, vous pouvez commencer à la mouler et à l'affiner en ce que vous désirez. 
-
 ## A quoi sert la modélisation 3D ? 
 De nombreuses industries utilisent la modélisation 3D pour une gamme de projets ; il y a probablement beaucoup d'éléments modélisés en 3D que nous utilisons sans même nous rendre compte de leur implication. Avec la modélisation 3D, les possibilités sont infinies. C'est un support vraiment polyvalent qui peut être utilisé pour un éventail de domaines différents. Explorons quelques utilisations courantes de la modélisation 3D : 
 
@@ -41,10 +36,11 @@ La plupart des films d'animation utilisent une sorte de logiciel de programmatio
 La conception des produits
 De nombreux produits que nous voyons autour de nous dans notre vie quotidienne auraient eu une certaine implication dans la modélisation 3D. En créant un modèle 3D virtuel de votre produit avant sa création physique, nous pouvons identifier les erreurs et ajuster le produit en conséquence. Même le fait de pouvoir voir la taille de l'objet par rapport à d'autres produits peut faire une énorme différence dans le processus de production.
 
+Il est également utile pour présenter des idées de produits aux investisseurs, car les produits peuvent être présentés sous un angle de 360 ​​degrés, permettant aux parties prenantes d'envisager pleinement le résultat final. C'est aussi moins de gaspillage que de créer des échantillons et de fabriquer à plusieurs reprises des faux produits, et la conception de produits durables est un grand pas dans la bonne direction.
 
 ## Le principe de base du fonctionnement de la modélisation 3D repose sur la création d'un modèle mathématique d'un objet en trois dimensions. Voici les étapes générales impliquées dans ce processus :
 
-Modélisation : La première étape consiste à créer une géométrie de base pour l'objet. Cela peut être fait en utilisant des primitives géométriques telles que des cubes, des sphères, des cônes, etc. ou en utilisant des techniques plus avancées comme la modélisation par maillage (utilisation de triangles ou de polygones pour représenter la surface de l'objet). Des logiciels de modélisation 3D tels que Blender, 3ds Max ou Maya sont couramment utilisés pour cette étape.
+Modélisation : La première étape consiste à créer une géométrie de base pour l'objet. Cela peut être fait en utilisant des primitives géométriques telles que des cubes, des sphères, des cônes, etc. ou en utilisant des techniques plus avancées comme la modélisation par maillage (utilisation de triangles ou de polygones pour représenter la surface de l'objet).  En utilisant des données de coordonnées, le logiciel identifie l'emplacement de chaque point vertical et horizontal, le tout par rapport à un point de référence. 
 
 Texturage : Une fois que la géométrie de base est créée, des textures peuvent être appliquées à la surface de l'objet pour lui donner une apparence réaliste. Les textures sont des images qui sont "enveloppées" autour de la surface de l'objet pour ajouter des détails tels que la couleur, les motifs, les reflets, etc. Les artistes 3D peuvent créer leurs propres textures ou utiliser des bibliothèques de textures existantes.
 
@@ -53,5 +49,3 @@ Texturage : Une fois que la géométrie de base est créée, des textures peuven
 Animation : Si nécessaire, des objets 3D peuvent être animés en leur donnant des mouvements et des transformations au fil du temps. Par exemple, des personnages animés dans un film ou un jeu vidéo nécessitent des squelettes et des contrôles pour créer des mouvements réalistes. Les logiciels d'animation 3D permettent de définir des trajectoires de mouvement, des transitions entre les états et d'autres paramètres pour créer des animations fluides.
 
 Rendu : La dernière étape consiste à effectuer le rendu final de la scène 3D. Cela implique le calcul de chaque pixel de l'image finale en fonction de la géométrie, des textures, de l'éclairage et des autres propriétés de la scène. Le rendu peut être effectué en temps réel, comme dans les jeux vidéo, ou en utilisant des logiciels de rendu plus complexes pour des résultats de haute qualité, comme dans l'industrie du cinéma.
-
-Il est également utile pour présenter des idées de produits aux investisseurs, car les produits peuvent être présentés sous un angle de 360 ​​degrés, permettant aux parties prenantes d'envisager pleinement le résultat final. C'est aussi moins de gaspillage que de créer des échantillons et de fabriquer à plusieurs reprises des faux produits, et la conception de produits durables est un grand pas dans la bonne direction.
