@@ -6,6 +6,12 @@ qu'est-ce qu'un fichier STL : https://www.sculpteo.com/fr/centre-apprentissage/c
 
 pourquoi et avantages de la modélisation 3D : https://www.autodesk.fr/solutions/3d-modeling-software#:~:text=La%20mod%C3%A9lisation%203D%20est%20le,%C3%A9galement%20appel%C3%A9%20%C2%AB%20mod%C3%A8le%203D%20%C2%BB.
 
+## intro
+premiers dessins (leonard de vinci)
+puis dessins normalisés
+puis dessins informatisés avec un semblant de 3D mais juste perspective
+3D informatisé avec maintenant les "informartion/code" en 3D
+
 ## Qu'est-ce que la modélisation 3D ?
 Commençons par une définition de modélisation 3D. La modélisation 3D est le processus de création de représentations tridimensionnelles d'un objet ou d'une surface. Les modèles 3D sont créés dans un logiciel de modélisation 3D informatisé, que nous explorerons un peu plus tard. 
 
@@ -37,7 +43,14 @@ Il est également utile pour présenter des idées de produits aux investisseurs
 
 ## Le principe de base du fonctionnement de la modélisation 3D repose sur la création d'un modèle mathématique d'un objet en trois dimensions. Voici les étapes générales impliquées dans ce processus :
 
-Modélisation : La première étape consiste à créer une géométrie de base pour l'objet. Cela peut être fait en utilisant des primitives géométriques telles que des cubes, des sphères, des cônes, etc. ou en utilisant des techniques plus avancées comme la modélisation par maillage (utilisation de triangles ou de polygones pour représenter la surface de l'objet).  En utilisant des données de coordonnées, le logiciel identifie l'emplacement de chaque point vertical et horizontal, le tout par rapport à un point de référence. 
+Modélisation : 
+par maillage : La modélisation par maillage, également connue sous le nom de modélisation polygonale, est l'une des techniques de modélisation 3D les plus couramment utilisées. Elle consiste à représenter des objets en utilisant un réseau de polygones interconnectés, appelé maillage. Ces polygones sont généralement des triangles, mais ils peuvent aussi être des quadrilatères ou d'autres formes. 
+Création de primitives : Le processus commence souvent par la création de formes de base, telles que des cubes, des sphères, des cylindres, etc. Ces formes de base sont utilisées comme point de départ pour construire des objets plus complexes.
+Édition et manipulation : Les polygones du maillage sont ensuite édités et manipulés pour former la géométrie souhaitée. Cela peut impliquer l'extrusion, la translation, la rotation, le redimensionnement, la subdivision, la suppression de polygones, etc. Ces opérations permettent de donner forme à l'objet et de créer des détails.
+Raffinement et ajustements : Le maillage est affiné en ajustant les arêtes, les sommets et les faces pour obtenir une forme plus précise et régulière. Des outils de lissage, de fusion, de découpage, etc., sont utilisés pour améliorer la qualité de la géométrie.
+La modélisation par géométries : Elle consiste à assembler des formes simples (cubes, cônes, cylindres, etc.) afin d'en créer des plus complexes.
+La modélisation voxel (abréviation de "volume pixel") est une technique de modélisation 3D qui se base sur la représentation d'objets à l'aide d'une grille tridimensionnelle de voxels. Les voxels sont des éléments volumétriques analogues aux pixels en 2D, mais qui occupent un espace tridimensionnel. Chaque voxel représente un point dans l'espace 3D et possède des attributs tels que la position, la couleur, la transparence, la densité, etc.
+
 
 Texturage : Une fois que la géométrie de base est créée, des textures peuvent être appliquées à la surface de l'objet pour lui donner une apparence réaliste. Les textures sont des images qui sont "enveloppées" autour de la surface de l'objet pour ajouter des détails tels que la couleur, les motifs, les reflets, etc. Les artistes 3D peuvent créer leurs propres textures ou utiliser des bibliothèques de textures existantes.
 
