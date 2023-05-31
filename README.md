@@ -24,8 +24,6 @@ L'utilisation la plus connue de la modélisation 3D est peut-être le développe
 
 La modélisation 3D est particulièrement importante dans le monde du jeu en réalité virtuelle, qui est un secteur extrêmement passionnant. Les jeux de réalité virtuelle vous plongent complètement dans l'expérience de jeu, créant des mondes entiers en trois dimensions dans lesquels plonger.
 
-Pour en savoir plus sur la création de jeux immersifs, consultez notre cours Créer des jeux vidéo expressifs .
-
 Il est logique que l'impression 3D ne soit pas possible sans la modélisation 3D. L'impression 3D permet aux modèles 3D de devenir des objets physiques qui peuvent être utilisés pour tout ce que vous voulez. C'est bien plus que des figurines miniatures et des jouets d'imprimantes à domicile ; il existe une infinité de façons utiles d'utiliser l'impression 3D.
 
 Comme nous l'avons découvert dans notre étape ouverte sur l'impression 3D dans le secteur de la santé , l'impression 3D est fréquemment utilisée dans le secteur de la santé, ce qui a des effets qui changent la vie. Il a été utilisé pour fabriquer des prothèses et des implants sur mesure et pour créer des modèles anatomiquement corrects pour la planification chirurgicale. 
