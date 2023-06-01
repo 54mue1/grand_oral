@@ -7,6 +7,7 @@ qu'est-ce qu'un fichier STL : https://www.sculpteo.com/fr/centre-apprentissage/c
 pourquoi et avantages de la modélisation 3D : https://www.autodesk.fr/solutions/3d-modeling-software#:~:text=La%20mod%C3%A9lisation%203D%20est%20le,%C3%A9galement%20appel%C3%A9%20%C2%AB%20mod%C3%A8le%203D%20%C2%BB.
 
 ## intro
+Depuis toujours, l'homme à besoin de visualiser avant de créer. L'exemple le plus connus est sans nul doute les croquis de Leonard de Vinci
 premiers dessins (leonard de vinci)
 puis dessins normalisés
 puis dessins informatisés avec un semblant de 3D mais juste perspective
