@@ -1,4 +1,9 @@
-# grand_oral
+# grand_oral modeleur volumique parametrique
+
+## questions
+
+Comment la modélisation 3D aide à simplifier des nombreux problèmes.
+Pourquoi la modélisation 3D permet la révolution de l'industrie de nos jours ?
 
 ## modélisation 3D : SolidWorks, OnShape, matrices, STL
 
