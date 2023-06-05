@@ -6,6 +6,8 @@ qu'est-ce qu'un fichier STL : https://www.sculpteo.com/fr/centre-apprentissage/c
 
 pourquoi et avantages de la modélisation 3D : https://www.autodesk.fr/solutions/3d-modeling-software#:~:text=La%20mod%C3%A9lisation%203D%20est%20le,%C3%A9galement%20appel%C3%A9%20%C2%AB%20mod%C3%A8le%203D%20%C2%BB.
 
+ajouter la notion de rdm avec matrice etc .. dans les fonctions de la modélisation.
+
 ## intro
 les dessins techniques sont indispensables pour la communication, la visualisation, la fabrication, la construction, la conformité aux normes et la documentation dans de nombreux domaines. Ils permettent d'assurer la précision, la cohérence et la compréhension des projets et des produits tout au long de leur cycle de vie. L'homme à ce besoins de visualisé depuis longtemps maintenant à l'image des croquis de Leonard de Vinci. Avec l'apparition de l'informatique, ces dessins technique ont ensuite été informatisé avec l'apparition d'un semblant de 3D mais qui n'est alors que de la perspective, les dessins ne sont définis que sur 2 axes; y et x. Jusque dans les années 1960-1970 ou les premières techniques de modélisation 3D apparaissent avec l'émergence de la conception assistée par ordinateur (CAO). Les premiers systèmes de modélisation permettaient la représentation des objets en utilisant des fils de fer (wireframe) pour définir les contours et les arêtes des formes.
 
