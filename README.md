@@ -2,8 +2,8 @@
 
 ## questions
 
-Comment la modélisation 3D aide à simplifier des nombreux problèmes.
-Pourquoi la modélisation 3D permet la révolution de l'industrie de nos jours ?
+Comment la modélisation 3D révolutionne la construction mécanique ?
+
 
 ## modélisation 3D : SolidWorks, OnShape, matrices, STL
 
