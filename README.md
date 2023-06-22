@@ -42,6 +42,12 @@ Raffinement et ajustements : Le maillage est affiné en ajustant les arêtes, le
 La modélisation par géométries : Elle consiste à assembler des formes simples (cubes, cônes, cylindres, etc.) afin d'en créer des plus complexes.
 La modélisation voxel (abréviation de "volume pixel") est une technique de modélisation 3D qui se base sur la représentation d'objets à l'aide d'une grille tridimensionnelle de voxels. Les voxels sont des éléments volumétriques analogues aux pixels en 2D, mais qui occupent un espace tridimensionnel. Chaque voxel représente un point dans l'espace 3D et possède des attributs tels que la position, la couleur, la transparence, la densité, etc.
 
+- volumique paramétrique : bases = courbes 2D( + : possibilité d’éditer à tout moment les dimensions de l’objet qui va se répercuter sur toutes les autres étapes de manière à s’adapter ) ( - : ne se prête pas à toutes les géométries. Exemple de la souris où chaque surface a des courbures indépendantes et qui lui sont propres)
+- Volumique surfacique : bases = courbes 3D ( + : exemple de la souris )
+- Volumique polygonale : 
+- Sculpture 
+
+
 
 Texturage : Une fois que la géométrie de base est créée, des textures peuvent être appliquées à la surface de l'objet pour lui donner une apparence réaliste. Les textures sont des images qui sont "enveloppées" autour de la surface de l'objet pour ajouter des détails tels que la couleur, les motifs, les reflets, etc. Les artistes 3D peuvent créer leurs propres textures ou utiliser des bibliothèques de textures existantes.
 
