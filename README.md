@@ -45,7 +45,7 @@ La modélisation voxel (abréviation de "volume pixel") est une technique de mod
 - volumique paramétrique : bases = courbes 2D( + : possibilité d’éditer à tout moment les dimensions de l’objet qui va se répercuter sur toutes les autres étapes de manière à s’adapter ) ( - : ne se prête pas à toutes les géométries. Exemple de la souris où chaque surface a des courbures indépendantes et qui lui sont propres)
 - Volumique surfacique : bases = courbes 3D ( + : exemple de la souris )
 - Volumique polygonale : bases = volume géométrique ( ex : cube ) que l'on va diviser en pls partie pour ajuster/ modifier
-- Sculpture 
+- Sculpture : bases = ce que tu veux ~ une sorte de boule par exemple; plutot intuitif dans l'utilisation car litterallement tu scultes ( ex : sculture avec des la glaise )
 
 
 
