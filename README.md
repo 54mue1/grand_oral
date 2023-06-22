@@ -23,14 +23,14 @@ Au cours du processus de modélisation 3D, vous pouvez déterminer la taille, la
 
 ## A quoi sert la modélisation 3D ? 
 De nombreuses industries utilisent la modélisation 3D pour une gamme de projets ; il y a probablement beaucoup d'éléments modélisés en 3D que nous utilisons sans même nous rendre compte de leur implication. Avec la modélisation 3D, les possibilités sont infinies. C'est un support vraiment polyvalent qui peut être utilisé pour un éventail de domaines différents. avec notamment, le domaine des jeux vidéos, les modèles 3D sont utilisés pour créer des personnages, des  des décors, des accessoires et des mondes entiers afin que l'expèrience de jeu soit le plus immersive possible. La modélisation 3D est également utilisé dans le domaine médical pour fabriquer des prothèses et des implants sur mesure et pour créer des modèles anatomiquement corrects pour la planification chirurgicale. Evidemment, cela sert également dans l'architecture, l'animation, l'impression 3D evidemment et m^me la simple conception d'objet ... <br>
-Ce qui nous interesse ici est la construction mécanique, industrielle et civil. Et bien dans un premier temps donc, la modélisation 3D sert à visualiser
+Ce qui nous interesse ici est la construction mécanique, industrielle et civil. Et bien dans un premier temps donc, la modélisation 3D sert à visualiser .....
 
 
 
-La conception des produits
+~~La conception des produits
 De nombreux produits que nous voyons autour de nous dans notre vie quotidienne auraient eu une certaine implication dans la modélisation 3D. En créant un modèle 3D virtuel de votre produit avant sa création physique, nous pouvons identifier les erreurs et ajuster le produit en conséquence. Même le fait de pouvoir voir la taille de l'objet par rapport à d'autres produits peut faire une énorme différence dans le processus de production.
 
-Il est également utile pour présenter des idées de produits aux investisseurs, car les produits peuvent être présentés sous un angle de 360 ​​degrés, permettant aux parties prenantes d'envisager pleinement le résultat final. C'est aussi moins de gaspillage que de créer des échantillons et de fabriquer à plusieurs reprises des faux produits, et la conception de produits durables est un grand pas dans la bonne direction.
+Il est également utile pour présenter des idées de produits aux investisseurs, car les produits peuvent être présentés sous un angle de 360 ​​degrés, permettant aux parties prenantes d'envisager pleinement le résultat final. C'est aussi moins de gaspillage que de créer des échantillons et de fabriquer à plusieurs reprises des faux produits, et la conception de produits durables est un grand pas dans la bonne direction.~~
 
 ## Le principe de base du fonctionnement de la modélisation 3D repose sur la création d'un modèle mathématique d'un objet en trois dimensions. Voici les étapes générales impliquées dans ce processus :
 
