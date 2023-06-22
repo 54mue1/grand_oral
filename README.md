@@ -2,7 +2,7 @@
 
 ## questions
 
-Comment la modélisation 3D révolutionne la construction mécanique ?
+Comment la modélisation 3D révolutionne la construction mécanique, industrielle et civil ?
 
 
 ## modélisation 3D : SolidWorks, OnShape, matrices, STL
