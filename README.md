@@ -33,11 +33,6 @@ Evidemment, tous ces atout permettent la Réduction des coûts et du temps de d�
 
 Modélisation : 
 par maillage : La modélisation par maillage, également connue sous le nom de modélisation polygonale, est l'une des techniques de modélisation 3D les plus couramment utilisées. Elle consiste à représenter des objets en utilisant un réseau de polygones interconnectés, appelé maillage. Ces polygones sont généralement des triangles, mais ils peuvent aussi être des quadrilatères ou d'autres formes. 
-Création de primitives : Le processus commence souvent par la création de formes de base, telles que des cubes, des sphères, des cylindres, etc. Ces formes de base sont utilisées comme point de départ pour construire des objets plus complexes.
-Édition et manipulation : Les polygones du maillage sont ensuite édités et manipulés pour former la géométrie souhaitée. Cela peut impliquer l'extrusion, la translation, la rotation, le redimensionnement, la subdivision, la suppression de polygones, etc. Ces opérations permettent de donner forme à l'objet et de créer des détails.
-Raffinement et ajustements : Le maillage est affiné en ajustant les arêtes, les sommets et les faces pour obtenir une forme plus précise et régulière. Des outils de lissage, de fusion, de découpage, etc., sont utilisés pour améliorer la qualité de la géométrie.
-La modélisation par géométries : Elle consiste à assembler des formes simples (cubes, cônes, cylindres, etc.) afin d'en créer des plus complexes.
-La modélisation voxel (abréviation de "volume pixel") est une technique de modélisation 3D qui se base sur la représentation d'objets à l'aide d'une grille tridimensionnelle de voxels. Les voxels sont des éléments volumétriques analogues aux pixels en 2D, mais qui occupent un espace tridimensionnel. Chaque voxel représente un point dans l'espace 3D et possède des attributs tels que la position, la couleur, la transparence, la densité, etc.
 
 La première étape, celle de base et la plus importante, la modélisation. Il existe plusieurs types de modélisation. Je vais vous parler de 4 d'entres elles. 
 
@@ -54,12 +49,21 @@ la modélisation volumique paramétrique excelle dans la création de piece mech
 modé surfacique : offre la possibilité de créer des surfaces complexes
 documentation 3D : analogie, avec un texte quel est le meilleur outil pour réaliser cette outil ? volumique para et surfacique sont tout approprié. possède des outils de mises en plan tres puissant. 
 La modification : volumique para : chngements avec bcp d'aisance. Surfacique compliqué avec la gestion des continuité entres les surfaces. poly et sculture ok.
-précision : volumique para et surfa tres éfficace. Plus compliqué pour polygonal et sculpture (pas de dimensions S)
+précision : volumique para et surfa tres éfficace. Plus compliqué pour polygonal et sculpture (pas de dimensions pr S)
 
-- volumique paramétrique : bases = courbes 2D( + : possibilité d’éditer à tout moment les dimensions de l’objet qui va se répercuter sur toutes les autres étapes de manière à s’adapter ) ( - : ne se prête pas à toutes les géométries. Exemple de la souris où chaque surface a des courbures indépendantes et qui lui sont propres)
+Suite à la modélisation, on peut appliquer une texture à notre modélisation pour lui donner une apparence réaliste. On peut également jouer sur la lumière puisque en effet,  l'éclairage permet de simuler la façon dont la lumière interagit avec l'objet virtuel. Des sources de lumière peuvent être ajoutées à la scène virtuelle pour illuminer l'objet sous différents angles, créant ainsi des ombres, des reflets et des effets d'éclairage réalistes.  Des animations peuvent éventuellement être mis en place pour la présentation du produit/projet.
+
+## conclu
+
+Pour conclure, la modélisation est donc une révolution car elle permet de tester. C'est ce que je retiendrais, car la notion de "test" est pour moi la notion principal de la modélisation 3D. Puisque gràce à ces tests, on peut éssayé toutes les possibilités possible avant des réaliser le vrai projet, ce qui permet de faire des grndes économies de temps et d'argent.
+
+### infos + 
+
+
+((- volumique paramétrique : bases = courbes 2D( + : possibilité d’éditer à tout moment les dimensions de l’objet qui va se répercuter sur toutes les autres étapes de manière à s’adapter ) ( - : ne se prête pas à toutes les géométries. Exemple de la souris où chaque surface a des courbures indépendantes et qui lui sont propres)
 - Volumique surfacique : bases = courbes 3D ( + : exemple de la souris )
 - Volumique polygonale : bases = volume géométrique ( ex : cube ) que l'on va diviser en pls partie pour ajuster/ modifier
-- Sculpture : bases = ce que tu veux ~ une sorte de boule par exemple; plutot intuitif dans l'utilisation car litterallement tu scultes ( ex : sculture avec des la glaise )
+- Sculpture : bases = ce que tu veux ~ une sorte de boule par exemple; plutot intuitif dans l'utilisation car litterallement tu scultes ( ex : sculture avec des la glaise )))
 
 
 
@@ -71,6 +75,3 @@ Animation : Si nécessaire, des objets 3D peuvent être animés en leur donnant 
 
 Rendu : La dernière étape consiste à effectuer le rendu final de la scène 3D. Cela implique le calcul de chaque pixel de l'image finale en fonction de la géométrie, des textures, de l'éclairage et des autres propriétés de la scène. Le rendu peut être effectué en temps réel, comme dans les jeux vidéo, ou en utilisant des logiciels de rendu plus complexes pour des résultats de haute qualité, comme dans l'industrie du cinéma.
 
-## conclu
-
-important notion de test
