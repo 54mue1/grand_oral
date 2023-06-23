@@ -39,7 +39,22 @@ Raffinement et ajustements : Le maillage est affiné en ajustant les arêtes, le
 La modélisation par géométries : Elle consiste à assembler des formes simples (cubes, cônes, cylindres, etc.) afin d'en créer des plus complexes.
 La modélisation voxel (abréviation de "volume pixel") est une technique de modélisation 3D qui se base sur la représentation d'objets à l'aide d'une grille tridimensionnelle de voxels. Les voxels sont des éléments volumétriques analogues aux pixels en 2D, mais qui occupent un espace tridimensionnel. Chaque voxel représente un point dans l'espace 3D et possède des attributs tels que la position, la couleur, la transparence, la densité, etc.
 
-La première étape, celle de base et la plus importante, la modélisation. Il existe plusieurs types de modélisation. Je vais vous parler de 4 d'entres elles.
+La première étape, celle de base et la plus importante, la modélisation. Il existe plusieurs types de modélisation. Je vais vous parler de 4 d'entres elles. 
+
+La modélisation volumique paramétrique s'appuie sur des dessins, des esquisses,qui sont cotés, qui vont servier de base pour créer des volumes. Possibilité de modifier les dimensions de l'esquisse et de voire se propager ces changement sur l'ensensemble des taches de modélisation conscutive à la création de l'esquisse.
+
+La modélisation surfacique offre la possibilité de créer des courbes 3D qui servent de bases à des surfaces qui peuvent être éditer. Assemblage de ces surfaces qui va créer un volume clos.
+
+le point de départ de La modélisation polygonale est une primitive 3D (ex: cube, cylindre, pavé droit) qui est ensuite modifié, édité. Le détail est ajouté avec des extrusions successive. ouis le modèle est lissé.
+
+point de départ de sculpture est le même que pour la modélisation polygonal, avec une primitive. Puis sculpture à l'aide de "brosses" (outil de sculpture). Ce qui va donner une sculpture fluide.
+
+complexité de forme : possibilité de réaliser ce que la nature ofre de plus complexe ( végétale, monde animal, le visage) ( dans l'ordre des technique présenté, du pire au meilleur) sculpture 3D offre des solution impossible aec les autres techniques. 
+la modélisation volumique paramétrique excelle dans la création de piece mecha
+modé surfacique : offre la possibilité de créer des surfaces complexes
+documentation 3D : analogie, avec un texte quel est le meilleur outil pour réaliser cette outil ? volumique para et surfacique sont tout approprié. possède des outils de mises en plan tres puissant. 
+La modification : volumique para : chngements avec bcp d'aisance. Surfacique compliqué avec la gestion des continuité entres les surfaces. poly et sculture ok.
+précision : volumique para et surfa tres éfficace. Plus compliqué pour polygonal et sculpture (pas de dimensions S)
 
 - volumique paramétrique : bases = courbes 2D( + : possibilité d’éditer à tout moment les dimensions de l’objet qui va se répercuter sur toutes les autres étapes de manière à s’adapter ) ( - : ne se prête pas à toutes les géométries. Exemple de la souris où chaque surface a des courbures indépendantes et qui lui sont propres)
 - Volumique surfacique : bases = courbes 3D ( + : exemple de la souris )
