@@ -4,16 +4,6 @@
 
 Comment la modélisation 3D révolutionne la construction mécanique, industrielle et civil ?
 
-
-## modélisation 3D : SolidWorks, OnShape, matrices, STL
-
-qu'est-ce qu'un fichier STL : https://www.sculpteo.com/fr/centre-apprentissage/creer-un-fichier-3d/quest-ce-quun-fichier-stl/
-
-pourquoi et avantages de la modélisation 3D : https://www.autodesk.fr/solutions/3d-modeling-software#:~:text=La%20mod%C3%A9lisation%203D%20est%20le,%C3%A9galement%20appel%C3%A9%20%C2%AB%20mod%C3%A8le%203D%20%C2%BB.
-
-ajouter la notion de rdm avec matrice etc .. dans les fonctions de la modélisation.
-permet la réalisation technique des choses que l'on dne pouvait pas faire avant (imprimante 3D)
-
 ## intro
 Durant notre année de terminal, en SI, nous avons à réaliser un projet. Le projet de notre groupe ( 6 ) était la construction d'un bras robot. Ainsi nous nous sommes rapidement rendus compte que les dessins techniques sont indispensables pour la communication, la visualisation, la fabrication, la construction, la conformité aux normes et la documentation. Ils permettent d'assurer la précision, la cohérence et la compréhension des projets et des produits tout au long de leur cycle de vie. Evidemment, pouvoir visualiser notre bras robot en 3 dimension nous était bien pratique. Et evidemment ce besoin est applicable à de nombreux domaines. Ce besoins ne date pas d'hier comme nous pouvons l'observer avec les divers croquis de Leonard de Vinci. Avec l'apparition de l'informatique, ces dessins technique ont ensuite été informatisé avec l'apparition d'un semblant de 3D mais qui n'est alors que de la perspective, les dessins ne sont définis que sur 2 axes; y et x. Jusque dans les années 1960-1970 ou les premières techniques de modélisation 3D apparaissent avec l'émergence de la conception assistée par ordinateur (CAO). J'ai alors trouvé interessant de me demander comment la modélisation 3D révolutionne la construction mécanique, industrielle et civil ?
 
@@ -74,4 +64,12 @@ Texturage : Une fois que la géométrie de base est créée, des textures peuven
 Animation : Si nécessaire, des objets 3D peuvent être animés en leur donnant des mouvements et des transformations au fil du temps. Par exemple, des personnages animés dans un film ou un jeu vidéo nécessitent des squelettes et des contrôles pour créer des mouvements réalistes. Les logiciels d'animation 3D permettent de définir des trajectoires de mouvement, des transitions entre les états et d'autres paramètres pour créer des animations fluides.
 
 Rendu : La dernière étape consiste à effectuer le rendu final de la scène 3D. Cela implique le calcul de chaque pixel de l'image finale en fonction de la géométrie, des textures, de l'éclairage et des autres propriétés de la scène. Le rendu peut être effectué en temps réel, comme dans les jeux vidéo, ou en utilisant des logiciels de rendu plus complexes pour des résultats de haute qualité, comme dans l'industrie du cinéma.
+
+qu'est-ce qu'un fichier STL : https://www.sculpteo.com/fr/centre-apprentissage/creer-un-fichier-3d/quest-ce-quun-fichier-stl/
+
+pourquoi et avantages de la modélisation 3D : https://www.autodesk.fr/solutions/3d-modeling-software#:~:text=La%20mod%C3%A9lisation%203D%20est%20le,%C3%A9galement%20appel%C3%A9%20%C2%AB%20mod%C3%A8le%203D%20%C2%BB.
+
+ajouter la notion de rdm avec matrice etc .. dans les fonctions de la modélisation.
+permet la réalisation technique des choses que l'on dne pouvait pas faire avant (imprimante 3D)
+
 
